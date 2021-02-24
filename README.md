@@ -64,3 +64,5 @@ How to attempt this challenge:
 5. Push your solution to your repo
 
 You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
+
+Piotr Pałka
